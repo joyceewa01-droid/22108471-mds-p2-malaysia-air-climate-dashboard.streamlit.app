@@ -1,0 +1,10 @@
+{
+  "country": "Malaysia",
+  "aggregation": "national",
+  "bbox": {
+    "latitude_min": 0,
+    "latitude_max": 8,
+    "longitude_min": 99,
+    "longitude_max": 120
+  }
+}

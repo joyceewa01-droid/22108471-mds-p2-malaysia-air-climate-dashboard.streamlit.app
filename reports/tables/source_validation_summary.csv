@@ -1,0 +1,3 @@
+variable,official_source,modelled_source,overlap_months,overlap_period,official_mean,modelled_mean,mean_bias_modelled_minus_official,mae,rmse,correlation,status
+PM10,OpenDOSM/DOE official baseline,Open-Meteo CAMS global modelled PM,5,2022-08 to 2022-12,18.648,21.499372048678588,2.851372048678585,2.851372048678585,3.306697095398877,0.8173680993930678,Overlap available
+PM2.5,OpenDOSM/DOE official baseline,Open-Meteo CAMS global modelled PM,5,2022-08 to 2022-12,11.486,14.496913067592953,3.0109130675929534,3.0109130675929534,3.1666687061373637,0.8923893648964314,Overlap available

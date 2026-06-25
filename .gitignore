@@ -1,0 +1,22 @@
+.DS_Store
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+.env
+.env.*
+logs/
+models/
+
+# Keep thesis working files local. Streamlit Cloud only needs the dashboard app,
+# code, configuration, processed data, and report tables.
+P1/
+P2/
+docs/
+
+# Raw files can be large or contain working extracts. The deployed dashboard uses
+# processed monthly tables and report outputs committed separately.
+data/raw/
+data/interim/
+data/metadata/

@@ -1,0 +1,77 @@
+{
+  "analysis_window": {
+    "start_year": 2023,
+    "end_year": 2026
+  },
+  "opendosm_air_pollution": {
+    "url": "https://storage.data.gov.my/environment/air_pollution.csv",
+    "local_path": "data/raw/opendosm/air_pollution.csv",
+    "role": "Official DOE/OpenDOSM baseline and proxy-validation context. The public catalogue is official but currently ends at 2022."
+  },
+  "nasa_power": {
+    "base_url": "https://power.larc.nasa.gov/api/temporal/monthly/regional",
+    "community": "SB",
+    "format": "CSV",
+    "available_end_year": 2025,
+    "regions": [
+      {
+        "name": "peninsular",
+        "latitude_min": 1,
+        "latitude_max": 7,
+        "longitude_min": 99,
+        "longitude_max": 105
+      },
+      {
+        "name": "borneo",
+        "latitude_min": 0,
+        "latitude_max": 8,
+        "longitude_min": 109,
+        "longitude_max": 119
+      }
+    ],
+    "parameters": ["T2M", "RH2M", "WS2M", "PRECTOTCORR"],
+    "local_dir": "data/raw/nasa_power"
+  },
+  "open_meteo_weather": {
+    "base_url": "https://archive-api.open-meteo.com/v1/archive",
+    "local_path": "data/raw/open_meteo_weather/open_meteo_weather_malaysia_2026.csv",
+    "source_label": "Open-Meteo historical weather",
+    "role": "Current-year climate context derived from Open-Meteo Historical Weather API reanalysis data. Used to extend climate indicators beyond the NASA POWER monthly annual extract.",
+    "start_date": "2026-01-01",
+    "end_date": "2026-06-23",
+    "timezone": "Asia/Kuala_Lumpur",
+    "daily": "temperature_2m_mean,relative_humidity_2m_mean,wind_speed_10m_mean,precipitation_sum",
+    "wind_speed_unit": "ms",
+    "precipitation_unit": "mm",
+    "locations": [
+      {"name": "Kuala Lumpur", "latitude": 3.1390, "longitude": 101.6869},
+      {"name": "George Town", "latitude": 5.4141, "longitude": 100.3288},
+      {"name": "Johor Bahru", "latitude": 1.4927, "longitude": 103.7414},
+      {"name": "Kuantan", "latitude": 3.8077, "longitude": 103.3260},
+      {"name": "Kota Bharu", "latitude": 6.1254, "longitude": 102.2386},
+      {"name": "Kuching", "latitude": 1.5533, "longitude": 110.3592},
+      {"name": "Kota Kinabalu", "latitude": 5.9804, "longitude": 116.0735},
+      {"name": "Miri", "latitude": 4.3995, "longitude": 113.9914}
+    ]
+  },
+  "open_meteo_air_quality": {
+    "base_url": "https://air-quality-api.open-meteo.com/v1/air-quality",
+    "local_path": "data/raw/open_meteo_air_quality/open_meteo_cams_pm_malaysia_2023_2026.csv",
+    "source_label": "Open-Meteo CAMS global modelled PM",
+    "role": "Current-period modelled PM2.5/PM10 input derived from CAMS global atmospheric composition forecasts via Open-Meteo. Used when official OpenDOSM/DOE pollutant data stop before 2023.",
+    "start_date": "2022-08-01",
+    "end_date": "2026-06-23",
+    "timezone": "Asia/Kuala_Lumpur",
+    "domains": "cams_global",
+    "locations": [
+      {"name": "Kuala Lumpur", "latitude": 3.1390, "longitude": 101.6869},
+      {"name": "George Town", "latitude": 5.4141, "longitude": 100.3288},
+      {"name": "Johor Bahru", "latitude": 1.4927, "longitude": 103.7414},
+      {"name": "Kuantan", "latitude": 3.8077, "longitude": 103.3260},
+      {"name": "Kota Bharu", "latitude": 6.1254, "longitude": 102.2386},
+      {"name": "Kuching", "latitude": 1.5533, "longitude": 110.3592},
+      {"name": "Kota Kinabalu", "latitude": 5.9804, "longitude": 116.0735},
+      {"name": "Miri", "latitude": 4.3995, "longitude": 113.9914}
+    ]
+  }
+}

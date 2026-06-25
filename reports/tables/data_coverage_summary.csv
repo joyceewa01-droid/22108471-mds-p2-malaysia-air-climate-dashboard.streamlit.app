@@ -1,0 +1,17 @@
+source,variable,start_date,end_date,rows,missing_values
+NASA POWER monthly,PRECTOTCORR,2023-01-01,2025-12-01,36,0
+NASA POWER monthly,RH2M,2023-01-01,2025-12-01,36,0
+NASA POWER monthly,T2M,2023-01-01,2025-12-01,36,0
+NASA POWER monthly,WS2M,2023-01-01,2025-12-01,36,0
+Open-Meteo CAMS global modelled PM,PM10,2022-08-01,2026-06-01,47,0
+Open-Meteo CAMS global modelled PM,PM2.5,2022-08-01,2026-06-01,47,0
+Open-Meteo historical weather,PRECTOTCORR,2026-01-01,2026-06-01,6,0
+Open-Meteo historical weather,RH2M,2026-01-01,2026-06-01,6,0
+Open-Meteo historical weather,T2M,2026-01-01,2026-06-01,6,0
+Open-Meteo historical weather,WS2M,2026-01-01,2026-06-01,6,0
+OpenDOSM/DOE official baseline,CO,2017-01-01,2022-12-01,72,2
+OpenDOSM/DOE official baseline,NO2,2017-01-01,2022-12-01,72,2
+OpenDOSM/DOE official baseline,O3,2017-01-01,2022-12-01,72,2
+OpenDOSM/DOE official baseline,PM10,2017-01-01,2022-12-01,72,2
+OpenDOSM/DOE official baseline,PM2.5,2017-01-01,2022-12-01,72,12
+OpenDOSM/DOE official baseline,SO2,2017-01-01,2022-12-01,72,2

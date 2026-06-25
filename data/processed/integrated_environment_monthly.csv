@@ -1,0 +1,695 @@
+date,variable,source,unit,value
+2023-01-01,PRECTOTCORR,NASA POWER monthly,reported,9.790466045673076
+2023-02-01,PRECTOTCORR,NASA POWER monthly,reported,6.6728515625
+2023-03-01,PRECTOTCORR,NASA POWER monthly,reported,5.97792998798077
+2023-04-01,PRECTOTCORR,NASA POWER monthly,reported,4.035988581730769
+2023-05-01,PRECTOTCORR,NASA POWER monthly,reported,5.7515441706730766
+2023-06-01,PRECTOTCORR,NASA POWER monthly,reported,5.685966646634615
+2023-07-01,PRECTOTCORR,NASA POWER monthly,reported,8.127641826923076
+2023-08-01,PRECTOTCORR,NASA POWER monthly,reported,6.704904447115384
+2023-09-01,PRECTOTCORR,NASA POWER monthly,reported,8.859256009615386
+2023-10-01,PRECTOTCORR,NASA POWER monthly,reported,6.094961538461538
+2023-11-01,PRECTOTCORR,NASA POWER monthly,reported,13.761255108173076
+2023-12-01,PRECTOTCORR,NASA POWER monthly,reported,12.047460637019231
+2024-01-01,PRECTOTCORR,NASA POWER monthly,reported,8.812400841346154
+2024-02-01,PRECTOTCORR,NASA POWER monthly,reported,4.3655652043269235
+2024-03-01,PRECTOTCORR,NASA POWER monthly,reported,5.251019230769231
+2024-04-01,PRECTOTCORR,NASA POWER monthly,reported,5.127663461538462
+2024-05-01,PRECTOTCORR,NASA POWER monthly,reported,7.537033653846153
+2024-06-01,PRECTOTCORR,NASA POWER monthly,reported,8.75353485576923
+2024-07-01,PRECTOTCORR,NASA POWER monthly,reported,5.650635817307693
+2024-08-01,PRECTOTCORR,NASA POWER monthly,reported,8.720696213942308
+2024-09-01,PRECTOTCORR,NASA POWER monthly,reported,7.552746694711539
+2024-10-01,PRECTOTCORR,NASA POWER monthly,reported,7.62543359375
+2024-11-01,PRECTOTCORR,NASA POWER monthly,reported,12.92583623798077
+2024-12-01,PRECTOTCORR,NASA POWER monthly,reported,10.167124699519231
+2025-01-01,PRECTOTCORR,NASA POWER monthly,reported,12.575588942307693
+2025-02-01,PRECTOTCORR,NASA POWER monthly,reported,5.970228665865385
+2025-03-01,PRECTOTCORR,NASA POWER monthly,reported,6.962033052884616
+2025-04-01,PRECTOTCORR,NASA POWER monthly,reported,7.389876802884616
+2025-05-01,PRECTOTCORR,NASA POWER monthly,reported,6.401278846153846
+2025-06-01,PRECTOTCORR,NASA POWER monthly,reported,6.545026442307693
+2025-07-01,PRECTOTCORR,NASA POWER monthly,reported,4.692852764423077
+2025-08-01,PRECTOTCORR,NASA POWER monthly,reported,7.894388521634616
+2025-09-01,PRECTOTCORR,NASA POWER monthly,reported,8.61487830528846
+2025-10-01,PRECTOTCORR,NASA POWER monthly,reported,8.17961298076923
+2025-11-01,PRECTOTCORR,NASA POWER monthly,reported,14.428822716346152
+2025-12-01,PRECTOTCORR,NASA POWER monthly,reported,12.23128485576923
+2023-01-01,RH2M,NASA POWER monthly,reported,86.79843870192309
+2023-02-01,RH2M,NASA POWER monthly,reported,86.45325180288461
+2023-03-01,RH2M,NASA POWER monthly,reported,85.50175841346154
+2023-04-01,RH2M,NASA POWER monthly,reported,82.76138311298075
+2023-05-01,RH2M,NASA POWER monthly,reported,83.8771259014423
+2023-06-01,RH2M,NASA POWER monthly,reported,83.21568960336538
+2023-07-01,RH2M,NASA POWER monthly,reported,84.44632782451923
+2023-08-01,RH2M,NASA POWER monthly,reported,84.29182962740384
+2023-09-01,RH2M,NASA POWER monthly,reported,84.16458052884616
+2023-10-01,RH2M,NASA POWER monthly,reported,83.36505979567308
+2023-11-01,RH2M,NASA POWER monthly,reported,85.49109375
+2023-12-01,RH2M,NASA POWER monthly,reported,87.54090865384615
+2024-01-01,RH2M,NASA POWER monthly,reported,87.46422656249999
+2024-02-01,RH2M,NASA POWER monthly,reported,85.2497743389423
+2024-03-01,RH2M,NASA POWER monthly,reported,84.68529387019231
+2024-04-01,RH2M,NASA POWER monthly,reported,83.82883323317307
+2024-05-01,RH2M,NASA POWER monthly,reported,84.17274459134616
+2024-06-01,RH2M,NASA POWER monthly,reported,83.7622803485577
+2024-07-01,RH2M,NASA POWER monthly,reported,84.44494981971152
+2024-08-01,RH2M,NASA POWER monthly,reported,84.54880498798076
+2024-09-01,RH2M,NASA POWER monthly,reported,84.13670823317308
+2024-10-01,RH2M,NASA POWER monthly,reported,84.1955889423077
+2024-11-01,RH2M,NASA POWER monthly,reported,85.642328125
+2024-12-01,RH2M,NASA POWER monthly,reported,86.93535276442307
+2025-01-01,RH2M,NASA POWER monthly,reported,87.6010555889423
+2025-02-01,RH2M,NASA POWER monthly,reported,86.57175781250001
+2025-03-01,RH2M,NASA POWER monthly,reported,86.41489873798076
+2025-04-01,RH2M,NASA POWER monthly,reported,84.81362259615385
+2025-05-01,RH2M,NASA POWER monthly,reported,83.42357662259616
+2025-06-01,RH2M,NASA POWER monthly,reported,83.38303455528846
+2025-07-01,RH2M,NASA POWER monthly,reported,83.58330829326923
+2025-08-01,RH2M,NASA POWER monthly,reported,83.22857572115385
+2025-09-01,RH2M,NASA POWER monthly,reported,84.05823467548078
+2025-10-01,RH2M,NASA POWER monthly,reported,84.02671574519232
+2025-11-01,RH2M,NASA POWER monthly,reported,85.67590625
+2025-12-01,RH2M,NASA POWER monthly,reported,86.65495552884616
+2023-01-01,T2M,NASA POWER monthly,reported,25.82222115384615
+2023-02-01,T2M,NASA POWER monthly,reported,25.97328515625
+2023-03-01,T2M,NASA POWER monthly,reported,26.199814002403848
+2023-04-01,T2M,NASA POWER monthly,reported,27.530635216346155
+2023-05-01,T2M,NASA POWER monthly,reported,28.00125030048077
+2023-06-01,T2M,NASA POWER monthly,reported,27.65428515625
+2023-07-01,T2M,NASA POWER monthly,reported,27.429421574519232
+2023-08-01,T2M,NASA POWER monthly,reported,27.532259014423076
+2023-09-01,T2M,NASA POWER monthly,reported,27.442338942307693
+2023-10-01,T2M,NASA POWER monthly,reported,27.658451021634615
+2023-11-01,T2M,NASA POWER monthly,reported,27.425455228365387
+2023-12-01,T2M,NASA POWER monthly,reported,27.101481971153845
+2024-01-01,T2M,NASA POWER monthly,reported,26.735935997596155
+2024-02-01,T2M,NASA POWER monthly,reported,26.934109375
+2024-03-01,T2M,NASA POWER monthly,reported,27.344879206730766
+2024-04-01,T2M,NASA POWER monthly,reported,28.251899639423076
+2024-05-01,T2M,NASA POWER monthly,reported,28.56027704326923
+2024-06-01,T2M,NASA POWER monthly,reported,27.878217848557693
+2024-07-01,T2M,NASA POWER monthly,reported,27.691798377403845
+2024-08-01,T2M,NASA POWER monthly,reported,27.459579627403848
+2024-09-01,T2M,NASA POWER monthly,reported,27.52475090144231
+2024-10-01,T2M,NASA POWER monthly,reported,27.357054387019232
+2024-11-01,T2M,NASA POWER monthly,reported,27.18570222355769
+2024-12-01,T2M,NASA POWER monthly,reported,26.70599729567308
+2025-01-01,T2M,NASA POWER monthly,reported,26.078039362980768
+2025-02-01,T2M,NASA POWER monthly,reported,26.055844050480772
+2025-03-01,T2M,NASA POWER monthly,reported,26.65584314903846
+2025-04-01,T2M,NASA POWER monthly,reported,27.14857451923077
+2025-05-01,T2M,NASA POWER monthly,reported,27.856010516826924
+2025-06-01,T2M,NASA POWER monthly,reported,27.513271334134615
+2025-07-01,T2M,NASA POWER monthly,reported,27.536229867788464
+2025-08-01,T2M,NASA POWER monthly,reported,27.057814302884616
+2025-09-01,T2M,NASA POWER monthly,reported,26.976063701923078
+2025-10-01,T2M,NASA POWER monthly,reported,27.082267127403846
+2025-11-01,T2M,NASA POWER monthly,reported,26.811395132211537
+2025-12-01,T2M,NASA POWER monthly,reported,26.433853665865385
+2023-01-01,WS2M,NASA POWER monthly,reported,2.755711237980769
+2023-02-01,WS2M,NASA POWER monthly,reported,2.864140324519231
+2023-03-01,WS2M,NASA POWER monthly,reported,2.574163762019231
+2023-04-01,WS2M,NASA POWER monthly,reported,1.5807767427884616
+2023-05-01,WS2M,NASA POWER monthly,reported,1.9436655649038461
+2023-06-01,WS2M,NASA POWER monthly,reported,1.8531844951923078
+2023-07-01,WS2M,NASA POWER monthly,reported,2.359038762019231
+2023-08-01,WS2M,NASA POWER monthly,reported,2.2472845552884615
+2023-09-01,WS2M,NASA POWER monthly,reported,2.1395201322115383
+2023-10-01,WS2M,NASA POWER monthly,reported,1.615346454326923
+2023-11-01,WS2M,NASA POWER monthly,reported,2.1559119591346154
+2023-12-01,WS2M,NASA POWER monthly,reported,2.762171875
+2024-01-01,WS2M,NASA POWER monthly,reported,3.13486328125
+2024-02-01,WS2M,NASA POWER monthly,reported,3.0244549278846153
+2024-03-01,WS2M,NASA POWER monthly,reported,2.6113338341346153
+2024-04-01,WS2M,NASA POWER monthly,reported,1.976708233173077
+2024-05-01,WS2M,NASA POWER monthly,reported,1.7955306490384615
+2024-06-01,WS2M,NASA POWER monthly,reported,1.9275495793269233
+2024-07-01,WS2M,NASA POWER monthly,reported,2.2501601562499998
+2024-08-01,WS2M,NASA POWER monthly,reported,2.0220775240384614
+2024-09-01,WS2M,NASA POWER monthly,reported,2.4065594951923077
+2024-10-01,WS2M,NASA POWER monthly,reported,2.0748239182692307
+2024-11-01,WS2M,NASA POWER monthly,reported,2.124184795673077
+2024-12-01,WS2M,NASA POWER monthly,reported,2.5609783653846154
+2025-01-01,WS2M,NASA POWER monthly,reported,3.119235276442308
+2025-02-01,WS2M,NASA POWER monthly,reported,2.668200721153846
+2025-03-01,WS2M,NASA POWER monthly,reported,2.3746871995192307
+2025-04-01,WS2M,NASA POWER monthly,reported,1.8382478966346154
+2025-05-01,WS2M,NASA POWER monthly,reported,1.6946823918269232
+2025-06-01,WS2M,NASA POWER monthly,reported,2.1439140625000004
+2025-07-01,WS2M,NASA POWER monthly,reported,2.438397235576923
+2025-08-01,WS2M,NASA POWER monthly,reported,2.168945012019231
+2025-09-01,WS2M,NASA POWER monthly,reported,2.0791256009615386
+2025-10-01,WS2M,NASA POWER monthly,reported,2.070144230769231
+2025-11-01,WS2M,NASA POWER monthly,reported,2.314045372596154
+2025-12-01,WS2M,NASA POWER monthly,reported,2.6031538461538464
+2022-08-01,PM10,Open-Meteo CAMS global modelled PM,ug/m3,24.299284638554216
+2022-09-01,PM10,Open-Meteo CAMS global modelled PM,ug/m3,24.81857638888889
+2022-10-01,PM10,Open-Meteo CAMS global modelled PM,ug/m3,19.930611559139784
+2022-11-01,PM10,Open-Meteo CAMS global modelled PM,ug/m3,19.695850694444445
+2022-12-01,PM10,Open-Meteo CAMS global modelled PM,ug/m3,18.752536962365593
+2023-01-01,PM10,Open-Meteo CAMS global modelled PM,ug/m3,20.870816532258065
+2023-02-01,PM10,Open-Meteo CAMS global modelled PM,ug/m3,22.150651041666663
+2023-03-01,PM10,Open-Meteo CAMS global modelled PM,ug/m3,24.90729166666667
+2023-04-01,PM10,Open-Meteo CAMS global modelled PM,ug/m3,31.551597222222224
+2023-05-01,PM10,Open-Meteo CAMS global modelled PM,ug/m3,26.63573588709677
+2023-06-01,PM10,Open-Meteo CAMS global modelled PM,ug/m3,30.070104166666663
+2023-07-01,PM10,Open-Meteo CAMS global modelled PM,ug/m3,27.740020161290325
+2023-08-01,PM10,Open-Meteo CAMS global modelled PM,ug/m3,26.98477822580645
+2023-09-01,PM10,Open-Meteo CAMS global modelled PM,ug/m3,27.626805555555556
+2023-10-01,PM10,Open-Meteo CAMS global modelled PM,ug/m3,27.85342741935484
+2023-11-01,PM10,Open-Meteo CAMS global modelled PM,ug/m3,18.671180555555555
+2023-12-01,PM10,Open-Meteo CAMS global modelled PM,ug/m3,18.491532258064517
+2024-01-01,PM10,Open-Meteo CAMS global modelled PM,ug/m3,20.51875
+2024-02-01,PM10,Open-Meteo CAMS global modelled PM,ug/m3,23.011889367816092
+2024-03-01,PM10,Open-Meteo CAMS global modelled PM,ug/m3,31.04937836021505
+2024-04-01,PM10,Open-Meteo CAMS global modelled PM,ug/m3,25.916128472222223
+2024-05-01,PM10,Open-Meteo CAMS global modelled PM,ug/m3,27.235853494623655
+2024-06-01,PM10,Open-Meteo CAMS global modelled PM,ug/m3,28.479340277777776
+2024-07-01,PM10,Open-Meteo CAMS global modelled PM,ug/m3,34.90853494623656
+2024-08-01,PM10,Open-Meteo CAMS global modelled PM,ug/m3,26.66552419354839
+2024-09-01,PM10,Open-Meteo CAMS global modelled PM,ug/m3,29.57654513888889
+2024-10-01,PM10,Open-Meteo CAMS global modelled PM,ug/m3,24.77286626344086
+2024-11-01,PM10,Open-Meteo CAMS global modelled PM,ug/m3,17.321371527777778
+2024-12-01,PM10,Open-Meteo CAMS global modelled PM,ug/m3,14.101310483870968
+2025-01-01,PM10,Open-Meteo CAMS global modelled PM,ug/m3,15.24232190860215
+2025-02-01,PM10,Open-Meteo CAMS global modelled PM,ug/m3,16.730245535714285
+2025-03-01,PM10,Open-Meteo CAMS global modelled PM,ug/m3,18.41140793010753
+2025-04-01,PM10,Open-Meteo CAMS global modelled PM,ug/m3,16.28828125
+2025-05-01,PM10,Open-Meteo CAMS global modelled PM,ug/m3,18.223723118279572
+2025-06-01,PM10,Open-Meteo CAMS global modelled PM,ug/m3,22.455850694444443
+2025-07-01,PM10,Open-Meteo CAMS global modelled PM,ug/m3,23.850554435483872
+2025-08-01,PM10,Open-Meteo CAMS global modelled PM,ug/m3,20.24099462365591
+2025-09-01,PM10,Open-Meteo CAMS global modelled PM,ug/m3,18.931944444444444
+2025-10-01,PM10,Open-Meteo CAMS global modelled PM,ug/m3,16.340692204301074
+2025-11-01,PM10,Open-Meteo CAMS global modelled PM,ug/m3,14.234166666666669
+2025-12-01,PM10,Open-Meteo CAMS global modelled PM,ug/m3,14.27953629032258
+2026-01-01,PM10,Open-Meteo CAMS global modelled PM,ug/m3,17.6791498655914
+2026-02-01,PM10,Open-Meteo CAMS global modelled PM,ug/m3,16.28495163690476
+2026-03-01,PM10,Open-Meteo CAMS global modelled PM,ug/m3,19.66732190860215
+2026-04-01,PM10,Open-Meteo CAMS global modelled PM,ug/m3,20.760225694444443
+2026-05-01,PM10,Open-Meteo CAMS global modelled PM,ug/m3,17.008904569892472
+2026-06-01,PM10,Open-Meteo CAMS global modelled PM,ug/m3,17.007767210144927
+2022-08-01,PM2.5,Open-Meteo CAMS global modelled PM,ug/m3,16.58237951807229
+2022-09-01,PM2.5,Open-Meteo CAMS global modelled PM,ug/m3,16.89498263888889
+2022-10-01,PM2.5,Open-Meteo CAMS global modelled PM,ug/m3,13.53907930107527
+2022-11-01,PM2.5,Open-Meteo CAMS global modelled PM,ug/m3,13.329548611111113
+2022-12-01,PM2.5,Open-Meteo CAMS global modelled PM,ug/m3,12.138575268817204
+2023-01-01,PM2.5,Open-Meteo CAMS global modelled PM,ug/m3,13.81165994623656
+2023-02-01,PM2.5,Open-Meteo CAMS global modelled PM,ug/m3,14.523958333333336
+2023-03-01,PM2.5,Open-Meteo CAMS global modelled PM,ug/m3,16.407426075268816
+2023-04-01,PM2.5,Open-Meteo CAMS global modelled PM,ug/m3,21.34673611111111
+2023-05-01,PM2.5,Open-Meteo CAMS global modelled PM,ug/m3,18.072950268817205
+2023-06-01,PM2.5,Open-Meteo CAMS global modelled PM,ug/m3,20.426163194444445
+2023-07-01,PM2.5,Open-Meteo CAMS global modelled PM,ug/m3,18.47829301075269
+2023-08-01,PM2.5,Open-Meteo CAMS global modelled PM,ug/m3,18.272950268817205
+2023-09-01,PM2.5,Open-Meteo CAMS global modelled PM,ug/m3,18.694600694444443
+2023-10-01,PM2.5,Open-Meteo CAMS global modelled PM,ug/m3,19.12925067204301
+2023-11-01,PM2.5,Open-Meteo CAMS global modelled PM,ug/m3,12.643767361111111
+2023-12-01,PM2.5,Open-Meteo CAMS global modelled PM,ug/m3,12.357778897849462
+2024-01-01,PM2.5,Open-Meteo CAMS global modelled PM,ug/m3,13.268262768817204
+2024-02-01,PM2.5,Open-Meteo CAMS global modelled PM,ug/m3,14.911440373563217
+2024-03-01,PM2.5,Open-Meteo CAMS global modelled PM,ug/m3,20.341969086021503
+2024-04-01,PM2.5,Open-Meteo CAMS global modelled PM,ug/m3,17.45484375
+2024-05-01,PM2.5,Open-Meteo CAMS global modelled PM,ug/m3,18.618464381720432
+2024-06-01,PM2.5,Open-Meteo CAMS global modelled PM,ug/m3,19.26125
+2024-07-01,PM2.5,Open-Meteo CAMS global modelled PM,ug/m3,23.309979838709676
+2024-08-01,PM2.5,Open-Meteo CAMS global modelled PM,ug/m3,18.15829973118279
+2024-09-01,PM2.5,Open-Meteo CAMS global modelled PM,ug/m3,19.89232638888889
+2024-10-01,PM2.5,Open-Meteo CAMS global modelled PM,ug/m3,16.661407930107526
+2024-11-01,PM2.5,Open-Meteo CAMS global modelled PM,ug/m3,14.14828125
+2024-12-01,PM2.5,Open-Meteo CAMS global modelled PM,ug/m3,13.15270497311828
+2025-01-01,PM2.5,Open-Meteo CAMS global modelled PM,ug/m3,13.833568548387095
+2025-02-01,PM2.5,Open-Meteo CAMS global modelled PM,ug/m3,15.046707589285717
+2025-03-01,PM2.5,Open-Meteo CAMS global modelled PM,ug/m3,16.723655913978494
+2025-04-01,PM2.5,Open-Meteo CAMS global modelled PM,ug/m3,15.478038194444444
+2025-05-01,PM2.5,Open-Meteo CAMS global modelled PM,ug/m3,17.253914650537634
+2025-06-01,PM2.5,Open-Meteo CAMS global modelled PM,ug/m3,20.403211805555557
+2025-07-01,PM2.5,Open-Meteo CAMS global modelled PM,ug/m3,21.743934811827955
+2025-08-01,PM2.5,Open-Meteo CAMS global modelled PM,ug/m3,19.30999663978495
+2025-09-01,PM2.5,Open-Meteo CAMS global modelled PM,ug/m3,18.117482638888887
+2025-10-01,PM2.5,Open-Meteo CAMS global modelled PM,ug/m3,15.471790994623657
+2025-11-01,PM2.5,Open-Meteo CAMS global modelled PM,ug/m3,13.439913194444443
+2025-12-01,PM2.5,Open-Meteo CAMS global modelled PM,ug/m3,13.06762432795699
+2026-01-01,PM2.5,Open-Meteo CAMS global modelled PM,ug/m3,15.590860215053764
+2026-02-01,PM2.5,Open-Meteo CAMS global modelled PM,ug/m3,14.42979910714286
+2026-03-01,PM2.5,Open-Meteo CAMS global modelled PM,ug/m3,17.302486559139783
+2026-04-01,PM2.5,Open-Meteo CAMS global modelled PM,ug/m3,19.380711805555556
+2026-05-01,PM2.5,Open-Meteo CAMS global modelled PM,ug/m3,15.787264784946236
+2026-06-01,PM2.5,Open-Meteo CAMS global modelled PM,ug/m3,15.817572463768114
+2026-01-01,PRECTOTCORR,Open-Meteo historical weather,mm/month,152.65
+2026-02-01,PRECTOTCORR,Open-Meteo historical weather,mm/month,172.325
+2026-03-01,PRECTOTCORR,Open-Meteo historical weather,mm/month,59.9625
+2026-04-01,PRECTOTCORR,Open-Meteo historical weather,mm/month,119.9125
+2026-05-01,PRECTOTCORR,Open-Meteo historical weather,mm/month,240.95
+2026-06-01,PRECTOTCORR,Open-Meteo historical weather,mm/month,132.9625
+2026-01-01,RH2M,Open-Meteo historical weather,%,77.95967741935485
+2026-02-01,RH2M,Open-Meteo historical weather,%,80.46875
+2026-03-01,RH2M,Open-Meteo historical weather,%,75.97983870967742
+2026-04-01,RH2M,Open-Meteo historical weather,%,78.47916666666667
+2026-05-01,RH2M,Open-Meteo historical weather,%,82.71370967741936
+2026-06-01,RH2M,Open-Meteo historical weather,%,82.42391304347827
+2026-01-01,T2M,Open-Meteo historical weather,deg C,26.19475806451613
+2026-02-01,T2M,Open-Meteo historical weather,deg C,26.564732142857142
+2026-03-01,T2M,Open-Meteo historical weather,deg C,27.526209677419352
+2026-04-01,T2M,Open-Meteo historical weather,deg C,28.16208333333333
+2026-05-01,T2M,Open-Meteo historical weather,deg C,27.86733870967742
+2026-06-01,T2M,Open-Meteo historical weather,deg C,27.83532608695652
+2026-01-01,WS2M,Open-Meteo historical weather,m/s,2.531774193548387
+2026-02-01,WS2M,Open-Meteo historical weather,m/s,2.219866071428571
+2026-03-01,WS2M,Open-Meteo historical weather,m/s,2.2776612903225804
+2026-04-01,WS2M,Open-Meteo historical weather,m/s,1.7440416666666667
+2026-05-01,WS2M,Open-Meteo historical weather,m/s,1.6179032258064516
+2026-06-01,WS2M,Open-Meteo historical weather,m/s,1.6827717391304349
+2017-01-01,CO,OpenDOSM/DOE official baseline,ppm,0.561
+2017-02-01,CO,OpenDOSM/DOE official baseline,ppm,0.53
+2017-03-01,CO,OpenDOSM/DOE official baseline,ppm,0.589
+2017-04-01,CO,OpenDOSM/DOE official baseline,ppm,0.662
+2017-05-01,CO,OpenDOSM/DOE official baseline,ppm,
+2017-06-01,CO,OpenDOSM/DOE official baseline,ppm,
+2017-07-01,CO,OpenDOSM/DOE official baseline,ppm,0.716
+2017-08-01,CO,OpenDOSM/DOE official baseline,ppm,0.661
+2017-09-01,CO,OpenDOSM/DOE official baseline,ppm,0.682
+2017-10-01,CO,OpenDOSM/DOE official baseline,ppm,0.68
+2017-11-01,CO,OpenDOSM/DOE official baseline,ppm,0.699
+2017-12-01,CO,OpenDOSM/DOE official baseline,ppm,0.679
+2018-01-01,CO,OpenDOSM/DOE official baseline,ppm,0.671
+2018-02-01,CO,OpenDOSM/DOE official baseline,ppm,0.677
+2018-03-01,CO,OpenDOSM/DOE official baseline,ppm,0.654
+2018-04-01,CO,OpenDOSM/DOE official baseline,ppm,0.682
+2018-05-01,CO,OpenDOSM/DOE official baseline,ppm,0.671
+2018-06-01,CO,OpenDOSM/DOE official baseline,ppm,0.648
+2018-07-01,CO,OpenDOSM/DOE official baseline,ppm,0.653
+2018-08-01,CO,OpenDOSM/DOE official baseline,ppm,0.655
+2018-09-01,CO,OpenDOSM/DOE official baseline,ppm,0.615
+2018-10-01,CO,OpenDOSM/DOE official baseline,ppm,0.632
+2018-11-01,CO,OpenDOSM/DOE official baseline,ppm,0.636
+2018-12-01,CO,OpenDOSM/DOE official baseline,ppm,0.626
+2019-01-01,CO,OpenDOSM/DOE official baseline,ppm,0.636
+2019-02-01,CO,OpenDOSM/DOE official baseline,ppm,0.588
+2019-03-01,CO,OpenDOSM/DOE official baseline,ppm,0.669
+2019-04-01,CO,OpenDOSM/DOE official baseline,ppm,0.644
+2019-05-01,CO,OpenDOSM/DOE official baseline,ppm,0.627
+2019-06-01,CO,OpenDOSM/DOE official baseline,ppm,0.585
+2019-07-01,CO,OpenDOSM/DOE official baseline,ppm,0.629
+2019-08-01,CO,OpenDOSM/DOE official baseline,ppm,0.708
+2019-09-01,CO,OpenDOSM/DOE official baseline,ppm,0.888
+2019-10-01,CO,OpenDOSM/DOE official baseline,ppm,0.629
+2019-11-01,CO,OpenDOSM/DOE official baseline,ppm,0.633
+2019-12-01,CO,OpenDOSM/DOE official baseline,ppm,0.565
+2020-01-01,CO,OpenDOSM/DOE official baseline,ppm,0.553
+2020-02-01,CO,OpenDOSM/DOE official baseline,ppm,0.544
+2020-03-01,CO,OpenDOSM/DOE official baseline,ppm,0.542
+2020-04-01,CO,OpenDOSM/DOE official baseline,ppm,0.473
+2020-05-01,CO,OpenDOSM/DOE official baseline,ppm,0.496
+2020-06-01,CO,OpenDOSM/DOE official baseline,ppm,0.529
+2020-07-01,CO,OpenDOSM/DOE official baseline,ppm,0.545
+2020-08-01,CO,OpenDOSM/DOE official baseline,ppm,0.585
+2020-09-01,CO,OpenDOSM/DOE official baseline,ppm,0.555
+2020-10-01,CO,OpenDOSM/DOE official baseline,ppm,0.548
+2020-11-01,CO,OpenDOSM/DOE official baseline,ppm,0.549
+2020-12-01,CO,OpenDOSM/DOE official baseline,ppm,0.62
+2021-01-01,CO,OpenDOSM/DOE official baseline,ppm,0.549
+2021-02-01,CO,OpenDOSM/DOE official baseline,ppm,0.533
+2021-03-01,CO,OpenDOSM/DOE official baseline,ppm,0.538
+2021-04-01,CO,OpenDOSM/DOE official baseline,ppm,0.563
+2021-05-01,CO,OpenDOSM/DOE official baseline,ppm,0.526
+2021-06-01,CO,OpenDOSM/DOE official baseline,ppm,0.488
+2021-07-01,CO,OpenDOSM/DOE official baseline,ppm,0.518
+2021-08-01,CO,OpenDOSM/DOE official baseline,ppm,0.494
+2021-09-01,CO,OpenDOSM/DOE official baseline,ppm,0.531
+2021-10-01,CO,OpenDOSM/DOE official baseline,ppm,0.564
+2021-11-01,CO,OpenDOSM/DOE official baseline,ppm,0.539
+2021-12-01,CO,OpenDOSM/DOE official baseline,ppm,0.562
+2022-01-01,CO,OpenDOSM/DOE official baseline,ppm,0.572
+2022-02-01,CO,OpenDOSM/DOE official baseline,ppm,0.515
+2022-03-01,CO,OpenDOSM/DOE official baseline,ppm,0.535
+2022-04-01,CO,OpenDOSM/DOE official baseline,ppm,0.575
+2022-05-01,CO,OpenDOSM/DOE official baseline,ppm,0.537
+2022-06-01,CO,OpenDOSM/DOE official baseline,ppm,0.513
+2022-07-01,CO,OpenDOSM/DOE official baseline,ppm,0.534
+2022-08-01,CO,OpenDOSM/DOE official baseline,ppm,0.508
+2022-09-01,CO,OpenDOSM/DOE official baseline,ppm,0.523
+2022-10-01,CO,OpenDOSM/DOE official baseline,ppm,0.501
+2022-11-01,CO,OpenDOSM/DOE official baseline,ppm,0.515
+2022-12-01,CO,OpenDOSM/DOE official baseline,ppm,0.503
+2017-01-01,NO2,OpenDOSM/DOE official baseline,ppm,0.0076
+2017-02-01,NO2,OpenDOSM/DOE official baseline,ppm,0.0071
+2017-03-01,NO2,OpenDOSM/DOE official baseline,ppm,0.0082
+2017-04-01,NO2,OpenDOSM/DOE official baseline,ppm,0.0087
+2017-05-01,NO2,OpenDOSM/DOE official baseline,ppm,
+2017-06-01,NO2,OpenDOSM/DOE official baseline,ppm,
+2017-07-01,NO2,OpenDOSM/DOE official baseline,ppm,0.0082
+2017-08-01,NO2,OpenDOSM/DOE official baseline,ppm,0.0078
+2017-09-01,NO2,OpenDOSM/DOE official baseline,ppm,0.0076
+2017-10-01,NO2,OpenDOSM/DOE official baseline,ppm,0.0082
+2017-11-01,NO2,OpenDOSM/DOE official baseline,ppm,0.008
+2017-12-01,NO2,OpenDOSM/DOE official baseline,ppm,0.0074
+2018-01-01,NO2,OpenDOSM/DOE official baseline,ppm,0.0078
+2018-02-01,NO2,OpenDOSM/DOE official baseline,ppm,0.0069
+2018-03-01,NO2,OpenDOSM/DOE official baseline,ppm,0.0074
+2018-04-01,NO2,OpenDOSM/DOE official baseline,ppm,0.0075
+2018-05-01,NO2,OpenDOSM/DOE official baseline,ppm,0.0076
+2018-06-01,NO2,OpenDOSM/DOE official baseline,ppm,0.0074
+2018-07-01,NO2,OpenDOSM/DOE official baseline,ppm,0.0096
+2018-08-01,NO2,OpenDOSM/DOE official baseline,ppm,0.0077
+2018-09-01,NO2,OpenDOSM/DOE official baseline,ppm,0.0079
+2018-10-01,NO2,OpenDOSM/DOE official baseline,ppm,0.0076
+2018-11-01,NO2,OpenDOSM/DOE official baseline,ppm,0.0074
+2018-12-01,NO2,OpenDOSM/DOE official baseline,ppm,0.007
+2019-01-01,NO2,OpenDOSM/DOE official baseline,ppm,0.0066
+2019-02-01,NO2,OpenDOSM/DOE official baseline,ppm,0.0063
+2019-03-01,NO2,OpenDOSM/DOE official baseline,ppm,0.0074
+2019-04-01,NO2,OpenDOSM/DOE official baseline,ppm,0.0077
+2019-05-01,NO2,OpenDOSM/DOE official baseline,ppm,0.0074
+2019-06-01,NO2,OpenDOSM/DOE official baseline,ppm,0.0069
+2019-07-01,NO2,OpenDOSM/DOE official baseline,ppm,0.0075
+2019-08-01,NO2,OpenDOSM/DOE official baseline,ppm,0.0076
+2019-09-01,NO2,OpenDOSM/DOE official baseline,ppm,0.0081
+2019-10-01,NO2,OpenDOSM/DOE official baseline,ppm,0.0074
+2019-11-01,NO2,OpenDOSM/DOE official baseline,ppm,0.0073
+2019-12-01,NO2,OpenDOSM/DOE official baseline,ppm,0.0061
+2020-01-01,NO2,OpenDOSM/DOE official baseline,ppm,0.0059
+2020-02-01,NO2,OpenDOSM/DOE official baseline,ppm,0.0057
+2020-03-01,NO2,OpenDOSM/DOE official baseline,ppm,0.0051
+2020-04-01,NO2,OpenDOSM/DOE official baseline,ppm,0.0032
+2020-05-01,NO2,OpenDOSM/DOE official baseline,ppm,0.0047
+2020-06-01,NO2,OpenDOSM/DOE official baseline,ppm,0.0061
+2020-07-01,NO2,OpenDOSM/DOE official baseline,ppm,0.0065
+2020-08-01,NO2,OpenDOSM/DOE official baseline,ppm,0.0064
+2020-09-01,NO2,OpenDOSM/DOE official baseline,ppm,0.0064
+2020-10-01,NO2,OpenDOSM/DOE official baseline,ppm,0.0066
+2020-11-01,NO2,OpenDOSM/DOE official baseline,ppm,0.0061
+2020-12-01,NO2,OpenDOSM/DOE official baseline,ppm,0.0065
+2021-01-01,NO2,OpenDOSM/DOE official baseline,ppm,0.0054
+2021-02-01,NO2,OpenDOSM/DOE official baseline,ppm,0.0052
+2021-03-01,NO2,OpenDOSM/DOE official baseline,ppm,0.0062
+2021-04-01,NO2,OpenDOSM/DOE official baseline,ppm,0.0069
+2021-05-01,NO2,OpenDOSM/DOE official baseline,ppm,0.0059
+2021-06-01,NO2,OpenDOSM/DOE official baseline,ppm,0.0046
+2021-07-01,NO2,OpenDOSM/DOE official baseline,ppm,0.0048
+2021-08-01,NO2,OpenDOSM/DOE official baseline,ppm,0.0049
+2021-09-01,NO2,OpenDOSM/DOE official baseline,ppm,0.0058
+2021-10-01,NO2,OpenDOSM/DOE official baseline,ppm,0.0063
+2021-11-01,NO2,OpenDOSM/DOE official baseline,ppm,0.0063
+2021-12-01,NO2,OpenDOSM/DOE official baseline,ppm,0.006
+2022-01-01,NO2,OpenDOSM/DOE official baseline,ppm,0.0061
+2022-02-01,NO2,OpenDOSM/DOE official baseline,ppm,0.0052
+2022-03-01,NO2,OpenDOSM/DOE official baseline,ppm,0.0058
+2022-04-01,NO2,OpenDOSM/DOE official baseline,ppm,0.0068
+2022-05-01,NO2,OpenDOSM/DOE official baseline,ppm,0.0065
+2022-06-01,NO2,OpenDOSM/DOE official baseline,ppm,0.0064
+2022-07-01,NO2,OpenDOSM/DOE official baseline,ppm,0.0065
+2022-08-01,NO2,OpenDOSM/DOE official baseline,ppm,0.0067
+2022-09-01,NO2,OpenDOSM/DOE official baseline,ppm,0.0067
+2022-10-01,NO2,OpenDOSM/DOE official baseline,ppm,0.0063
+2022-11-01,NO2,OpenDOSM/DOE official baseline,ppm,0.0066
+2022-12-01,NO2,OpenDOSM/DOE official baseline,ppm,0.0062
+2017-01-01,O3,OpenDOSM/DOE official baseline,ppm,0.015
+2017-02-01,O3,OpenDOSM/DOE official baseline,ppm,0.018
+2017-03-01,O3,OpenDOSM/DOE official baseline,ppm,0.017
+2017-04-01,O3,OpenDOSM/DOE official baseline,ppm,0.015
+2017-05-01,O3,OpenDOSM/DOE official baseline,ppm,
+2017-06-01,O3,OpenDOSM/DOE official baseline,ppm,
+2017-07-01,O3,OpenDOSM/DOE official baseline,ppm,0.016
+2017-08-01,O3,OpenDOSM/DOE official baseline,ppm,0.016
+2017-09-01,O3,OpenDOSM/DOE official baseline,ppm,0.015
+2017-10-01,O3,OpenDOSM/DOE official baseline,ppm,0.017
+2017-11-01,O3,OpenDOSM/DOE official baseline,ppm,0.015
+2017-12-01,O3,OpenDOSM/DOE official baseline,ppm,0.02
+2018-01-01,O3,OpenDOSM/DOE official baseline,ppm,0.015
+2018-02-01,O3,OpenDOSM/DOE official baseline,ppm,0.024
+2018-03-01,O3,OpenDOSM/DOE official baseline,ppm,0.019
+2018-04-01,O3,OpenDOSM/DOE official baseline,ppm,0.019
+2018-05-01,O3,OpenDOSM/DOE official baseline,ppm,0.017
+2018-06-01,O3,OpenDOSM/DOE official baseline,ppm,0.017
+2018-07-01,O3,OpenDOSM/DOE official baseline,ppm,0.018
+2018-08-01,O3,OpenDOSM/DOE official baseline,ppm,0.02
+2018-09-01,O3,OpenDOSM/DOE official baseline,ppm,0.017
+2018-10-01,O3,OpenDOSM/DOE official baseline,ppm,0.016
+2018-11-01,O3,OpenDOSM/DOE official baseline,ppm,0.016
+2018-12-01,O3,OpenDOSM/DOE official baseline,ppm,0.015
+2019-01-01,O3,OpenDOSM/DOE official baseline,ppm,0.02
+2019-02-01,O3,OpenDOSM/DOE official baseline,ppm,0.02
+2019-03-01,O3,OpenDOSM/DOE official baseline,ppm,0.023
+2019-04-01,O3,OpenDOSM/DOE official baseline,ppm,0.019
+2019-05-01,O3,OpenDOSM/DOE official baseline,ppm,0.017
+2019-06-01,O3,OpenDOSM/DOE official baseline,ppm,0.016
+2019-07-01,O3,OpenDOSM/DOE official baseline,ppm,0.019
+2019-08-01,O3,OpenDOSM/DOE official baseline,ppm,0.02
+2019-09-01,O3,OpenDOSM/DOE official baseline,ppm,0.022
+2019-10-01,O3,OpenDOSM/DOE official baseline,ppm,0.016
+2019-11-01,O3,OpenDOSM/DOE official baseline,ppm,0.016
+2019-12-01,O3,OpenDOSM/DOE official baseline,ppm,0.018
+2020-01-01,O3,OpenDOSM/DOE official baseline,ppm,0.019
+2020-02-01,O3,OpenDOSM/DOE official baseline,ppm,0.02
+2020-03-01,O3,OpenDOSM/DOE official baseline,ppm,0.019
+2020-04-01,O3,OpenDOSM/DOE official baseline,ppm,0.018
+2020-05-01,O3,OpenDOSM/DOE official baseline,ppm,0.017
+2020-06-01,O3,OpenDOSM/DOE official baseline,ppm,0.015
+2020-07-01,O3,OpenDOSM/DOE official baseline,ppm,0.014
+2020-08-01,O3,OpenDOSM/DOE official baseline,ppm,0.016
+2020-09-01,O3,OpenDOSM/DOE official baseline,ppm,0.013
+2020-10-01,O3,OpenDOSM/DOE official baseline,ppm,0.014
+2020-11-01,O3,OpenDOSM/DOE official baseline,ppm,0.013
+2020-12-01,O3,OpenDOSM/DOE official baseline,ppm,0.016
+2021-01-01,O3,OpenDOSM/DOE official baseline,ppm,0.019
+2021-02-01,O3,OpenDOSM/DOE official baseline,ppm,0.023
+2021-03-01,O3,OpenDOSM/DOE official baseline,ppm,0.016
+2021-04-01,O3,OpenDOSM/DOE official baseline,ppm,0.017
+2021-05-01,O3,OpenDOSM/DOE official baseline,ppm,0.015
+2021-06-01,O3,OpenDOSM/DOE official baseline,ppm,0.016
+2021-07-01,O3,OpenDOSM/DOE official baseline,ppm,0.016
+2021-08-01,O3,OpenDOSM/DOE official baseline,ppm,0.013
+2021-09-01,O3,OpenDOSM/DOE official baseline,ppm,0.014
+2021-10-01,O3,OpenDOSM/DOE official baseline,ppm,0.015
+2021-11-01,O3,OpenDOSM/DOE official baseline,ppm,0.013
+2021-12-01,O3,OpenDOSM/DOE official baseline,ppm,0.017
+2022-01-01,O3,OpenDOSM/DOE official baseline,ppm,0.019
+2022-02-01,O3,OpenDOSM/DOE official baseline,ppm,0.014
+2022-03-01,O3,OpenDOSM/DOE official baseline,ppm,0.015
+2022-04-01,O3,OpenDOSM/DOE official baseline,ppm,0.016
+2022-05-01,O3,OpenDOSM/DOE official baseline,ppm,0.015
+2022-06-01,O3,OpenDOSM/DOE official baseline,ppm,0.014
+2022-07-01,O3,OpenDOSM/DOE official baseline,ppm,0.015
+2022-08-01,O3,OpenDOSM/DOE official baseline,ppm,0.015
+2022-09-01,O3,OpenDOSM/DOE official baseline,ppm,0.014
+2022-10-01,O3,OpenDOSM/DOE official baseline,ppm,0.013
+2022-11-01,O3,OpenDOSM/DOE official baseline,ppm,0.014
+2022-12-01,O3,OpenDOSM/DOE official baseline,ppm,0.017
+2017-01-01,PM10,OpenDOSM/DOE official baseline,ug/m3,38.0
+2017-02-01,PM10,OpenDOSM/DOE official baseline,ug/m3,40.89
+2017-03-01,PM10,OpenDOSM/DOE official baseline,ug/m3,42.31
+2017-04-01,PM10,OpenDOSM/DOE official baseline,ug/m3,37.76
+2017-05-01,PM10,OpenDOSM/DOE official baseline,ug/m3,
+2017-06-01,PM10,OpenDOSM/DOE official baseline,ug/m3,
+2017-07-01,PM10,OpenDOSM/DOE official baseline,ug/m3,29.31
+2017-08-01,PM10,OpenDOSM/DOE official baseline,ug/m3,24.96
+2017-09-01,PM10,OpenDOSM/DOE official baseline,ug/m3,23.41
+2017-10-01,PM10,OpenDOSM/DOE official baseline,ug/m3,24.32
+2017-11-01,PM10,OpenDOSM/DOE official baseline,ug/m3,17.91
+2017-12-01,PM10,OpenDOSM/DOE official baseline,ug/m3,21.6
+2018-01-01,PM10,OpenDOSM/DOE official baseline,ug/m3,19.14
+2018-02-01,PM10,OpenDOSM/DOE official baseline,ug/m3,26.06
+2018-03-01,PM10,OpenDOSM/DOE official baseline,ug/m3,24.84
+2018-04-01,PM10,OpenDOSM/DOE official baseline,ug/m3,25.64
+2018-05-01,PM10,OpenDOSM/DOE official baseline,ug/m3,22.6
+2018-06-01,PM10,OpenDOSM/DOE official baseline,ug/m3,25.88
+2018-07-01,PM10,OpenDOSM/DOE official baseline,ug/m3,30.29
+2018-08-01,PM10,OpenDOSM/DOE official baseline,ug/m3,36.47
+2018-09-01,PM10,OpenDOSM/DOE official baseline,ug/m3,26.97
+2018-10-01,PM10,OpenDOSM/DOE official baseline,ug/m3,22.22
+2018-11-01,PM10,OpenDOSM/DOE official baseline,ug/m3,20.03
+2018-12-01,PM10,OpenDOSM/DOE official baseline,ug/m3,18.89
+2019-01-01,PM10,OpenDOSM/DOE official baseline,ug/m3,22.26
+2019-02-01,PM10,OpenDOSM/DOE official baseline,ug/m3,23.59
+2019-03-01,PM10,OpenDOSM/DOE official baseline,ug/m3,31.92
+2019-04-01,PM10,OpenDOSM/DOE official baseline,ug/m3,26.95
+2019-05-01,PM10,OpenDOSM/DOE official baseline,ug/m3,23.74
+2019-06-01,PM10,OpenDOSM/DOE official baseline,ug/m3,22.16
+2019-07-01,PM10,OpenDOSM/DOE official baseline,ug/m3,29.98
+2019-08-01,PM10,OpenDOSM/DOE official baseline,ug/m3,42.2
+2019-09-01,PM10,OpenDOSM/DOE official baseline,ug/m3,64.11
+2019-10-01,PM10,OpenDOSM/DOE official baseline,ug/m3,22.39
+2019-11-01,PM10,OpenDOSM/DOE official baseline,ug/m3,21.52
+2019-12-01,PM10,OpenDOSM/DOE official baseline,ug/m3,19.09
+2020-01-01,PM10,OpenDOSM/DOE official baseline,ug/m3,21.37
+2020-02-01,PM10,OpenDOSM/DOE official baseline,ug/m3,23.18
+2020-03-01,PM10,OpenDOSM/DOE official baseline,ug/m3,22.96
+2020-04-01,PM10,OpenDOSM/DOE official baseline,ug/m3,17.7
+2020-05-01,PM10,OpenDOSM/DOE official baseline,ug/m3,17.58
+2020-06-01,PM10,OpenDOSM/DOE official baseline,ug/m3,19.48
+2020-07-01,PM10,OpenDOSM/DOE official baseline,ug/m3,18.55
+2020-08-01,PM10,OpenDOSM/DOE official baseline,ug/m3,22.81
+2020-09-01,PM10,OpenDOSM/DOE official baseline,ug/m3,18.23
+2020-10-01,PM10,OpenDOSM/DOE official baseline,ug/m3,19.19
+2020-11-01,PM10,OpenDOSM/DOE official baseline,ug/m3,17.11
+2020-12-01,PM10,OpenDOSM/DOE official baseline,ug/m3,18.55
+2021-01-01,PM10,OpenDOSM/DOE official baseline,ug/m3,19.65
+2021-02-01,PM10,OpenDOSM/DOE official baseline,ug/m3,25.74
+2021-03-01,PM10,OpenDOSM/DOE official baseline,ug/m3,22.54
+2021-04-01,PM10,OpenDOSM/DOE official baseline,ug/m3,22.55
+2021-05-01,PM10,OpenDOSM/DOE official baseline,ug/m3,20.28
+2021-06-01,PM10,OpenDOSM/DOE official baseline,ug/m3,19.65
+2021-07-01,PM10,OpenDOSM/DOE official baseline,ug/m3,22.76
+2021-08-01,PM10,OpenDOSM/DOE official baseline,ug/m3,18.16
+2021-09-01,PM10,OpenDOSM/DOE official baseline,ug/m3,18.6
+2021-10-01,PM10,OpenDOSM/DOE official baseline,ug/m3,20.53
+2021-11-01,PM10,OpenDOSM/DOE official baseline,ug/m3,16.84
+2021-12-01,PM10,OpenDOSM/DOE official baseline,ug/m3,18.86
+2022-01-01,PM10,OpenDOSM/DOE official baseline,ug/m3,21.98
+2022-02-01,PM10,OpenDOSM/DOE official baseline,ug/m3,18.09
+2022-03-01,PM10,OpenDOSM/DOE official baseline,ug/m3,19.76
+2022-04-01,PM10,OpenDOSM/DOE official baseline,ug/m3,20.59
+2022-05-01,PM10,OpenDOSM/DOE official baseline,ug/m3,21.16
+2022-06-01,PM10,OpenDOSM/DOE official baseline,ug/m3,18.67
+2022-07-01,PM10,OpenDOSM/DOE official baseline,ug/m3,23.55
+2022-08-01,PM10,OpenDOSM/DOE official baseline,ug/m3,20.64
+2022-09-01,PM10,OpenDOSM/DOE official baseline,ug/m3,19.41
+2022-10-01,PM10,OpenDOSM/DOE official baseline,ug/m3,17.35
+2022-11-01,PM10,OpenDOSM/DOE official baseline,ug/m3,17.4
+2022-12-01,PM10,OpenDOSM/DOE official baseline,ug/m3,18.44
+2017-01-01,PM2.5,OpenDOSM/DOE official baseline,ug/m3,
+2017-02-01,PM2.5,OpenDOSM/DOE official baseline,ug/m3,
+2017-03-01,PM2.5,OpenDOSM/DOE official baseline,ug/m3,
+2017-04-01,PM2.5,OpenDOSM/DOE official baseline,ug/m3,
+2017-05-01,PM2.5,OpenDOSM/DOE official baseline,ug/m3,
+2017-06-01,PM2.5,OpenDOSM/DOE official baseline,ug/m3,
+2017-07-01,PM2.5,OpenDOSM/DOE official baseline,ug/m3,
+2017-08-01,PM2.5,OpenDOSM/DOE official baseline,ug/m3,
+2017-09-01,PM2.5,OpenDOSM/DOE official baseline,ug/m3,
+2017-10-01,PM2.5,OpenDOSM/DOE official baseline,ug/m3,
+2017-11-01,PM2.5,OpenDOSM/DOE official baseline,ug/m3,
+2017-12-01,PM2.5,OpenDOSM/DOE official baseline,ug/m3,
+2018-01-01,PM2.5,OpenDOSM/DOE official baseline,ug/m3,11.43
+2018-02-01,PM2.5,OpenDOSM/DOE official baseline,ug/m3,16.75
+2018-03-01,PM2.5,OpenDOSM/DOE official baseline,ug/m3,15.61
+2018-04-01,PM2.5,OpenDOSM/DOE official baseline,ug/m3,16.34
+2018-05-01,PM2.5,OpenDOSM/DOE official baseline,ug/m3,14.54
+2018-06-01,PM2.5,OpenDOSM/DOE official baseline,ug/m3,17.28
+2018-07-01,PM2.5,OpenDOSM/DOE official baseline,ug/m3,20.63
+2018-08-01,PM2.5,OpenDOSM/DOE official baseline,ug/m3,25.84
+2018-09-01,PM2.5,OpenDOSM/DOE official baseline,ug/m3,18.21
+2018-10-01,PM2.5,OpenDOSM/DOE official baseline,ug/m3,14.5
+2018-11-01,PM2.5,OpenDOSM/DOE official baseline,ug/m3,12.33
+2018-12-01,PM2.5,OpenDOSM/DOE official baseline,ug/m3,11.54
+2019-01-01,PM2.5,OpenDOSM/DOE official baseline,ug/m3,12.96
+2019-02-01,PM2.5,OpenDOSM/DOE official baseline,ug/m3,15.23
+2019-03-01,PM2.5,OpenDOSM/DOE official baseline,ug/m3,23.17
+2019-04-01,PM2.5,OpenDOSM/DOE official baseline,ug/m3,18.69
+2019-05-01,PM2.5,OpenDOSM/DOE official baseline,ug/m3,15.52
+2019-06-01,PM2.5,OpenDOSM/DOE official baseline,ug/m3,14.57
+2019-07-01,PM2.5,OpenDOSM/DOE official baseline,ug/m3,20.79
+2019-08-01,PM2.5,OpenDOSM/DOE official baseline,ug/m3,31.74
+2019-09-01,PM2.5,OpenDOSM/DOE official baseline,ug/m3,52.86
+2019-10-01,PM2.5,OpenDOSM/DOE official baseline,ug/m3,15.46
+2019-11-01,PM2.5,OpenDOSM/DOE official baseline,ug/m3,13.92
+2019-12-01,PM2.5,OpenDOSM/DOE official baseline,ug/m3,10.95
+2020-01-01,PM2.5,OpenDOSM/DOE official baseline,ug/m3,12.62
+2020-02-01,PM2.5,OpenDOSM/DOE official baseline,ug/m3,12.93
+2020-03-01,PM2.5,OpenDOSM/DOE official baseline,ug/m3,15.01
+2020-04-01,PM2.5,OpenDOSM/DOE official baseline,ug/m3,11.81
+2020-05-01,PM2.5,OpenDOSM/DOE official baseline,ug/m3,11.14
+2020-06-01,PM2.5,OpenDOSM/DOE official baseline,ug/m3,12.21
+2020-07-01,PM2.5,OpenDOSM/DOE official baseline,ug/m3,11.74
+2020-08-01,PM2.5,OpenDOSM/DOE official baseline,ug/m3,15.15
+2020-09-01,PM2.5,OpenDOSM/DOE official baseline,ug/m3,11.52
+2020-10-01,PM2.5,OpenDOSM/DOE official baseline,ug/m3,12.36
+2020-11-01,PM2.5,OpenDOSM/DOE official baseline,ug/m3,10.1
+2020-12-01,PM2.5,OpenDOSM/DOE official baseline,ug/m3,10.92
+2021-01-01,PM2.5,OpenDOSM/DOE official baseline,ug/m3,11.36
+2021-02-01,PM2.5,OpenDOSM/DOE official baseline,ug/m3,15.94
+2021-03-01,PM2.5,OpenDOSM/DOE official baseline,ug/m3,14.3
+2021-04-01,PM2.5,OpenDOSM/DOE official baseline,ug/m3,14.07
+2021-05-01,PM2.5,OpenDOSM/DOE official baseline,ug/m3,12.62
+2021-06-01,PM2.5,OpenDOSM/DOE official baseline,ug/m3,13.3
+2021-07-01,PM2.5,OpenDOSM/DOE official baseline,ug/m3,15.27
+2021-08-01,PM2.5,OpenDOSM/DOE official baseline,ug/m3,11.76
+2021-09-01,PM2.5,OpenDOSM/DOE official baseline,ug/m3,12.06
+2021-10-01,PM2.5,OpenDOSM/DOE official baseline,ug/m3,13.14
+2021-11-01,PM2.5,OpenDOSM/DOE official baseline,ug/m3,10.02
+2021-12-01,PM2.5,OpenDOSM/DOE official baseline,ug/m3,11.43
+2022-01-01,PM2.5,OpenDOSM/DOE official baseline,ug/m3,13.6
+2022-02-01,PM2.5,OpenDOSM/DOE official baseline,ug/m3,10.87
+2022-03-01,PM2.5,OpenDOSM/DOE official baseline,ug/m3,12.2
+2022-04-01,PM2.5,OpenDOSM/DOE official baseline,ug/m3,13.25
+2022-05-01,PM2.5,OpenDOSM/DOE official baseline,ug/m3,13.29
+2022-06-01,PM2.5,OpenDOSM/DOE official baseline,ug/m3,11.63
+2022-07-01,PM2.5,OpenDOSM/DOE official baseline,ug/m3,14.86
+2022-08-01,PM2.5,OpenDOSM/DOE official baseline,ug/m3,13.4
+2022-09-01,PM2.5,OpenDOSM/DOE official baseline,ug/m3,12.42
+2022-10-01,PM2.5,OpenDOSM/DOE official baseline,ug/m3,10.48
+2022-11-01,PM2.5,OpenDOSM/DOE official baseline,ug/m3,10.38
+2022-12-01,PM2.5,OpenDOSM/DOE official baseline,ug/m3,10.75
+2017-01-01,SO2,OpenDOSM/DOE official baseline,ppm,0.0023
+2017-02-01,SO2,OpenDOSM/DOE official baseline,ppm,0.0025
+2017-03-01,SO2,OpenDOSM/DOE official baseline,ppm,0.0028
+2017-04-01,SO2,OpenDOSM/DOE official baseline,ppm,0.0027
+2017-05-01,SO2,OpenDOSM/DOE official baseline,ppm,
+2017-06-01,SO2,OpenDOSM/DOE official baseline,ppm,
+2017-07-01,SO2,OpenDOSM/DOE official baseline,ppm,0.0014
+2017-08-01,SO2,OpenDOSM/DOE official baseline,ppm,0.001
+2017-09-01,SO2,OpenDOSM/DOE official baseline,ppm,0.0011
+2017-10-01,SO2,OpenDOSM/DOE official baseline,ppm,0.0012
+2017-11-01,SO2,OpenDOSM/DOE official baseline,ppm,0.001
+2017-12-01,SO2,OpenDOSM/DOE official baseline,ppm,0.001
+2018-01-01,SO2,OpenDOSM/DOE official baseline,ppm,0.001
+2018-02-01,SO2,OpenDOSM/DOE official baseline,ppm,0.0011
+2018-03-01,SO2,OpenDOSM/DOE official baseline,ppm,0.001
+2018-04-01,SO2,OpenDOSM/DOE official baseline,ppm,0.001
+2018-05-01,SO2,OpenDOSM/DOE official baseline,ppm,0.001
+2018-06-01,SO2,OpenDOSM/DOE official baseline,ppm,0.0011
+2018-07-01,SO2,OpenDOSM/DOE official baseline,ppm,0.0011
+2018-08-01,SO2,OpenDOSM/DOE official baseline,ppm,0.0011
+2018-09-01,SO2,OpenDOSM/DOE official baseline,ppm,0.001
+2018-10-01,SO2,OpenDOSM/DOE official baseline,ppm,0.001
+2018-11-01,SO2,OpenDOSM/DOE official baseline,ppm,0.001
+2018-12-01,SO2,OpenDOSM/DOE official baseline,ppm,0.0009
+2019-01-01,SO2,OpenDOSM/DOE official baseline,ppm,0.001
+2019-02-01,SO2,OpenDOSM/DOE official baseline,ppm,0.0011
+2019-03-01,SO2,OpenDOSM/DOE official baseline,ppm,0.0011
+2019-04-01,SO2,OpenDOSM/DOE official baseline,ppm,0.001
+2019-05-01,SO2,OpenDOSM/DOE official baseline,ppm,0.001
+2019-06-01,SO2,OpenDOSM/DOE official baseline,ppm,0.001
+2019-07-01,SO2,OpenDOSM/DOE official baseline,ppm,0.0011
+2019-08-01,SO2,OpenDOSM/DOE official baseline,ppm,0.0013
+2019-09-01,SO2,OpenDOSM/DOE official baseline,ppm,0.0011
+2019-10-01,SO2,OpenDOSM/DOE official baseline,ppm,0.001
+2019-11-01,SO2,OpenDOSM/DOE official baseline,ppm,0.001
+2019-12-01,SO2,OpenDOSM/DOE official baseline,ppm,0.001
+2020-01-01,SO2,OpenDOSM/DOE official baseline,ppm,0.001
+2020-02-01,SO2,OpenDOSM/DOE official baseline,ppm,0.001
+2020-03-01,SO2,OpenDOSM/DOE official baseline,ppm,0.0009
+2020-04-01,SO2,OpenDOSM/DOE official baseline,ppm,0.0009
+2020-05-01,SO2,OpenDOSM/DOE official baseline,ppm,0.0009
+2020-06-01,SO2,OpenDOSM/DOE official baseline,ppm,0.001
+2020-07-01,SO2,OpenDOSM/DOE official baseline,ppm,0.001
+2020-08-01,SO2,OpenDOSM/DOE official baseline,ppm,0.0011
+2020-09-01,SO2,OpenDOSM/DOE official baseline,ppm,0.0011
+2020-10-01,SO2,OpenDOSM/DOE official baseline,ppm,0.0011
+2020-11-01,SO2,OpenDOSM/DOE official baseline,ppm,0.0011
+2020-12-01,SO2,OpenDOSM/DOE official baseline,ppm,0.0012
+2021-01-01,SO2,OpenDOSM/DOE official baseline,ppm,0.0011
+2021-02-01,SO2,OpenDOSM/DOE official baseline,ppm,0.0012
+2021-03-01,SO2,OpenDOSM/DOE official baseline,ppm,0.0011
+2021-04-01,SO2,OpenDOSM/DOE official baseline,ppm,0.0011
+2021-05-01,SO2,OpenDOSM/DOE official baseline,ppm,0.001
+2021-06-01,SO2,OpenDOSM/DOE official baseline,ppm,0.0011
+2021-07-01,SO2,OpenDOSM/DOE official baseline,ppm,0.0011
+2021-08-01,SO2,OpenDOSM/DOE official baseline,ppm,0.0011
+2021-09-01,SO2,OpenDOSM/DOE official baseline,ppm,0.0011
+2021-10-01,SO2,OpenDOSM/DOE official baseline,ppm,0.0011
+2021-11-01,SO2,OpenDOSM/DOE official baseline,ppm,0.0012
+2021-12-01,SO2,OpenDOSM/DOE official baseline,ppm,0.0012
+2022-01-01,SO2,OpenDOSM/DOE official baseline,ppm,0.0012
+2022-02-01,SO2,OpenDOSM/DOE official baseline,ppm,0.0011
+2022-03-01,SO2,OpenDOSM/DOE official baseline,ppm,0.0012
+2022-04-01,SO2,OpenDOSM/DOE official baseline,ppm,0.0012
+2022-05-01,SO2,OpenDOSM/DOE official baseline,ppm,0.0011
+2022-06-01,SO2,OpenDOSM/DOE official baseline,ppm,0.0012
+2022-07-01,SO2,OpenDOSM/DOE official baseline,ppm,0.0012
+2022-08-01,SO2,OpenDOSM/DOE official baseline,ppm,0.0012
+2022-09-01,SO2,OpenDOSM/DOE official baseline,ppm,0.0012
+2022-10-01,SO2,OpenDOSM/DOE official baseline,ppm,0.0012
+2022-11-01,SO2,OpenDOSM/DOE official baseline,ppm,0.0012
+2022-12-01,SO2,OpenDOSM/DOE official baseline,ppm,0.0013
